@@ -1,2 +1,19 @@
-# Rock-Paper-Scissors-Game-JAVA-
-This project is a simple Rock Paper Scissors game built using Python where the user plays against the computer. The computer randomly selects its move, and the program determines the winner based on standard game rules. It allows continuous play until the user chooses to exit.
+# Rock Paper Scissors Game (Python)
+
+## Features
+- User vs Computer gameplay
+- Random computer choice
+- Displays result (Win / Lose / Tie)
+- Input validation
+- Option to play multiple rounds
+- Exit option
+
+## Technologies Used
+- Python
+- random module
+
+## How to Run
+1. Install Python on your system.
+2. Save the file as `main.py`.
+3. Open terminal or command prompt.
+4. Run the program using:
